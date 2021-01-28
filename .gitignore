@@ -1,7 +1,0 @@
-**/.DS_Store
-.env
-node_modules
-.vscode
-.idea
-yarn-error.log
-build
